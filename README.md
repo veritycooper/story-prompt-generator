@@ -1,20 +1,21 @@
 # Story Prompt Generator
 
-A simple Python program that generates random creative writing prompts.
+A Python program that generates random story prompts based on user-selected genres and tropes.
 
 ## Features
 
-- Random hero
-- Random setting
-- Random conflict
-- Generates a unique prompt every time
+- Choose a genre (Fantasy, Sci-Fi, Romance, Mystery)
+- Choose a trope (Enemies to Lovers, Revenge, etc.)
+- Generates unique story ideas every time
 
-## Example Output
+## Example
 
-Hero: a runaway prince  
-Setting: inside a floating city  
-Conflict: must survive a deadly magical trial
+Genre: Fantasy  
+Trope: Revenge  
 
-## Technologies Used
+Prompt:  
+A dragon rider in a cursed kingdom must uncover a dangerous secret.
+
+## Technologies
 
 Python
